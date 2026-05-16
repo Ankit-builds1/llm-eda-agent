@@ -46,7 +46,7 @@ Gradio UI (Deployed on HuggingFace Spaces)
 
 ## 🚀 Live Demo
 
-👉 **[Try it live on HuggingFace Spaces](https://huggingface.co/spaces)**
+👉 **[Try it live on HuggingFace Spaces]([https://huggingface.co/spaces](https://huggingface.co/spaces/AnkitsProject12/eda-agent))**
 
 ---
 
@@ -116,37 +116,13 @@ python app.py
 | 📊 Marketing | Profile campaign performance |
 | 🎓 Education | Analyze student performance |
 
----
 
-## 📄 Resume Bullet Points
-
-```
-• Built LLM-powered Automated EDA Agent using NVIDIA API and
-  LangChain that reduces manual data exploration time by 70%
-
-• Engineered auto-profiling pipeline processing 50+ column
-  types, generating statistical summaries and correlation
-  heatmaps autonomously
-
-• Implemented hypothesis generation module using prompt
-  engineering with causal reasoning, producing 5 testable
-  business hypotheses per dataset
-
-• Deployed interactive Gradio interface on HuggingFace Spaces
-  — tested on Titanic (12 cols) and House Prices (81 cols)
-```
-
----
 
 ## 👨‍💻 Author
 
 **Ankit Dash**  
 Centurion University | Data Science | 2025  
-📧 your-email@email.com  
-🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+📧 005ankitdash@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/ankitdash05) | [GitHub](https://github.com/Ankit-builds1)
 
 ---
-
-## 📜 License
-
-MIT License — free to use and modify.
